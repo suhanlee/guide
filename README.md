@@ -1,12 +1,13 @@
-# guide
+# Guide
 각종 가이드 모음
 
 ## Coding Standard
-* 구글 코딩 가이드
-[styleguide-Java](https://google.github.io/styleguide/javaguide.html)
+- Google Java Style Guide https://google.github.io/styleguide/javaguide.html
+- Google Python Style Guide https://google.github.io/styleguide/pyguide.html
+- Airbnb Ruby Style Guide https://github.com/airbnb/ruby
 
-* Airbnb 가이드
-[styleguide-ruby](https://github.com/airbnb/ruby)
+## Markdown
+- Markdown web editor http://dillinger.io
 
 ## Git
 * git 간편 안내서 https://rogerdudler.github.io/git-guide/index.ko.html
