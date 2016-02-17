@@ -5,7 +5,7 @@
 - Google Java Style Guide https://google.github.io/styleguide/javaguide.html
 - Google Python Style Guide https://google.github.io/styleguide/pyguide.html
 - Airbnb Ruby Style Guide https://github.com/airbnb/ruby
-
+- Golang Code Review Comments https://github.com/golang/go/wiki/CodeReviewComments
 ## Markdown
 - Markdown web editor http://dillinger.io
 
